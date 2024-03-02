@@ -1,0 +1,6 @@
+@CheatSheet.WebAPI_HostAddress = http://localhost:5124
+
+GET {{CheatSheet.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
